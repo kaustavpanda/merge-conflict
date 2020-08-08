@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+This is initial file
+feature 1 added
+=======
 pseudo code
 {
 Initial Function( )
@@ -13,3 +17,4 @@ Initial Security( )
 security patch()  {//added security patch}
 
 }
+>>>>>>> master
